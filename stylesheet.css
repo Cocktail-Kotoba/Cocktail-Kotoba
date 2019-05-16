@@ -139,6 +139,11 @@ header {
   width: 100%;
 }
 
+.lessonImg {
+  float: left;
+  width: 100%;
+}
+
 .lesson-icon {
   position: relative;
 }
